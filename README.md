@@ -28,12 +28,6 @@ Tables.
 
 ![image](https://github.com/dannytheanalyst911/SQL-Danny-s-Diner/assets/107795987/3f8d3ab2-e61c-4b35-be9b-dc8f6cb88cc8)
 
-````sql
-SELECT s.customer_id, SUM(price) AS total_sales
-FROM dbo.sales AS s
-JOIN dbo.menu AS m
-   ON s.product_id = m.product_id
-GROUP BY customer_id; 
-````
+
 
 
