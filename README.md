@@ -2,7 +2,7 @@
 My intermediate and advanced SQL querries are shown in the section
 # Dinner practice SQL challenge by Danny Ma
 
-Link: https://8weeksqlchallenge.com/getting-started/
+Link: [https://8weeksqlchallenge.com/getting-started/](https://8weeksqlchallenge.com/case-study-1/)
 
 Tables.
 
