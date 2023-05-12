@@ -1,5 +1,12 @@
 # SQL
-My intermediate and advanced SQL querries are shown in the section
+My intermediate and advanced SQL querries are shown in the section.
+
+Tool: MySQL Workbench 8.0 CE.
+
+CODE: [Code](https://github.com/dannytheanalyst911/SQL-Danny-s-Diner/blob/main/Danny's%20Diner%20Challenge.sql)
+
+SOLUTION with EXPLANATION: [Solution](https://github.com/dannytheanalyst911/SQL-Danny-s-Diner/blob/main/Solution.md)
+
 # Dinner practice SQL challenge by Danny Ma
 
 Link: [https://8weeksqlchallenge.com/getting-started/](https://8weeksqlchallenge.com/case-study-1/)
