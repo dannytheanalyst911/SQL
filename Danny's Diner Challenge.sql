@@ -1,3 +1,10 @@
+--------------------------------
+--CASE STUDY #1: DANNY'S DINER--
+--------------------------------
+
+--Author: Danny Vu
+--Date: 13/04/2023 (updated 12/05/2023)
+--Tool used: MySQL 8.0
 
 CREATE TABLE sales (
   customer_id VARCHAR(1),
